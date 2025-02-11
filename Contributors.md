@@ -28,7 +28,6 @@
 - [Oyaghi](https://github.com/oyaghi) 👈(ﾟヮﾟ 👈)
 - [AryanVeks](https://github.com/Aryan0826)
 - [kikumiyako](https://github.com/kikumiyako)
-- [Matthias Orderson](https://github.com/Tais24-lab)
 - [paul kiprop] (https://github.com/youngKip)
 - [Connor Sullivan](https://github.com/connorssullivan)
 - [Gabriel Costa](https://github.com/gabriel-oxx)
